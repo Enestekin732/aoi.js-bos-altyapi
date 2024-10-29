@@ -1,0 +1,14 @@
+{
+  "name": "bos",
+  "version": "0.0.1",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vendev_102",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "aoi.js": "^6.9.0"
+  }
+}
